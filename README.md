@@ -1,4 +1,4 @@
-# Week4_Deployment_uising_flask
+# Week4_Deployment_using_flask
 Task:
 
 1. Select any toy data (simple data).
